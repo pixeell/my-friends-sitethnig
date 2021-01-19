@@ -1,0 +1,13 @@
+body {
+    background-image: url('https://img.itch.zone/aW1nLzE2MTM4NDEucG5n/original/%2B9g6CM.png');
+    font-family: 'VT323', monospace;
+    font-size: 22px;
+    text-align: center;
+    color: black;
+}
+
+a {
+    font-family: 'VT323', monospace;
+    font-size: 35px;
+    color: blue;
+}
